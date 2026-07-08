@@ -18,3 +18,4 @@ Nº  Posição  Jogador
 9   PL       Valter Leão (Cap.) 
 10  ED       Xavier Leopardo    
 11  PE       Hugo Puma          
+Erro do conflito-diogo
