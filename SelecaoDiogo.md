@@ -1,7 +1,7 @@
 Aluno: Diogo Ferreira
 Treinador: Ferreira
 Capitão: Cristiano Ronaldo
-Estádio: Estádio da LuzSeleção das Quinas
+Estádio: Estádio da Luz/Seleção das Quinas
 
 Nº  Posição  Jogador
 1	GR	Diogo Costa
